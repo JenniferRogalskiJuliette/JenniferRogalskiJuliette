@@ -36,3 +36,49 @@ namespace HelloWorld
 
 
 
+Java
+
+class HelloWorld {
+
+    public static void main( String []args ) { 
+    
+          System.out.println( ''Hello World!'' );
+        
+     }  
+}     
+
+
+Php
+
+<?php
+
+echo ''Hello World!'';
+
+?>
+
+
+Python
+
+print('Hello ,world');
+
+
+
+Scala
+
+
+object HelloWorld {
+  def main(args: Array[String]): Unit =  {
+    println(''Hello, world!'')
+   }
+ }
+ 
+ 
+ JavaScript
+ 
+ 
+ console.log('Hello World' );
+ 
+ 
+ 
+ 
+   
