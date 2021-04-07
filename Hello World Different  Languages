@@ -1,0 +1,38 @@
+C
+
+#include <stdio.h>
+
+int main(void)
+{
+  printf(''Hello World'');
+  return 0; // ends the program
+}
+
+
+C++
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout << ''Hello, World''; // std output stream
+    return 0; // exit status
+}
+
+
+C# (c sharp)
+
+using System;
+
+namespace HelloWorld
+{
+    class Hello {
+        static void Main(String[] args)
+        {       // prints hello world
+            System.Console.WriteLine(''Hello World'');
+        } 
+    }
+}
+
+
+
